@@ -86,13 +86,6 @@ npm run dev
 ## Bug Report or Feature Request
 If you encounter a bug, or have a request for a new feature, please open a New Issue.
 
-
-## Join our Coding Community
-
-Connect with us on:
-- [LinkedIn](https://www.linkedin.com/in/dhruvil-prajapati-187759221/)
-- [Email](mailto:dhruvilprajapati2003@gmail.com)
-
 ## MIT License & Copyright
 
 © Algocraft. All rights reserved.
